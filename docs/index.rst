@@ -28,6 +28,10 @@ Get involved, submit issues and pull requests on the `code repository`_!
 Changes
 -------
 
+* **2.1** (YYYY-MM-DD):
+
+  * Add testing for Django 2.2 (no code changes required).
+
 * **2.0** (2018-08-27):
 
   * Add support for Django 2.0 and 2.1, and drop support for Django < 1.11.
